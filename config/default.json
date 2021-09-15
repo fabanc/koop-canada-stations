@@ -1,0 +1,19 @@
+{
+  "port": "8081",
+  "koop-provider-csv": {
+    "sources": {
+      "my-data": {
+        "url": "https://dd.weather.gc.ca/hydrometric/doc/hydrometric_StationList.csv",
+        "metadata": {
+          "name": "Hydrometric",
+          "description": "",
+          "idField": ""
+        },
+        "geometryColumns": {
+          "latitude": "Latitude",
+          "longitude": "Longitude"
+        }
+      }
+    }
+  }
+}
