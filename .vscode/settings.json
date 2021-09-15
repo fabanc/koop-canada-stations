@@ -1,0 +1,8 @@
+{
+    "appService.zipIgnorePattern": [
+        "node_modules{,/**}",
+        ".vscode{,/**}"
+    ],
+    "appService.defaultWebAppToDeploy": "/subscriptions/979ba592-6ea7-469b-b960-3a94c3a48269/resourceGroups/appsvc_linux_centralus/providers/Microsoft.Web/sites/sig2021-koop-hydro-stations-canada",
+    "appService.deploySubpath": "."
+}
