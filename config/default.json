@@ -2,7 +2,7 @@
   "port": "8080",
   "koop-provider-csv": {
     "sources": {
-      "my-data": {
+      "hydro-data": {
         "url": "https://dd.weather.gc.ca/hydrometric/doc/hydrometric_StationList.csv",
         "metadata": {
           "name": "Hydrometric",

@@ -5,4 +5,4 @@
 
 Application name: sig2021-koop-hydro-stations-canada
 
-Application URL: http://sig2021-koop-hydro-stations-canada.azurewebsites.net/koop-provider-csv/my-data/FeatureServer/0/query
+Application URL: https://sig2021-koop-hydro-stations-canada.azurewebsites.net/koop-provider-csv/hydro-data/FeatureServer/0/query
